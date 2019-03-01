@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/batch_script/batch_script_functions_with_parameters.htm
+https://www.tutorialspoint.com/batch_script/batch_script_functions.htm
+https://ss64.com/nt/if.html
